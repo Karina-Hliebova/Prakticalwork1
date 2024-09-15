@@ -1,0 +1,13 @@
+#include <iostream> 
+using namespace std; //instead ad prefix std::
+
+int main() //header
+{ //begin
+	cout << "Hello world!" << endl;
+
+	system("pause");
+	return 0; //return to 05
+} //end
+
+// Запуск програми: CTRL+F5 або меню "Отладка" > "Запуск без отладки"
+// Отладка програми: F5 або меню "Отладка" > "Запустить отладку" 
